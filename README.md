@@ -37,7 +37,7 @@ anything, as I will Ignore you!
 <img align="left" alt="Discord.js" width="26px" src="https://avatars.githubusercontent.com/u/26492485?s=200&v=4" />
 <img align="left" alt="Blockly" width="26px" src="https://developers.google.com/blockly/images/logos/logo_vertical.svg" />
 <img align="left" alt="Code.org" width="26px" src="https://www.commonsense.org/education/sites/default/files/tlr-blog/code-org-icon.jpg" />
-<img align="left" alt="Thunkable" width="26px" src="https://clever-partner-images.s3.amazonaws.com/library/icons/thunkable-x/icon.png" />
+<img align="left" alt="Thunkable" width="26px" src="https://user-images.githubusercontent.com/85126640/121789359-57518480-cba3-11eb-8cd4-e2cc2d2da184.png" />
 <img align="left" alt="Firebase" width="26px" src="https://www.shareicon.net/data/128x128/2016/07/08/117548_google_512x512.png" />
 <br />
 <br />
