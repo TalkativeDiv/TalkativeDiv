@@ -35,6 +35,7 @@ anything, as I will Ignore you!
 <img align="left" alt="Sass" width="26px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="Discord.js" width="26px" src="https://avatars.githubusercontent.com/u/26492485?s=200&v=4" />
+<img align="left" alt="Blockly" width="26px" src="https://developers.google.com/blockly/images/logos/logo_vertical.svg" />
 <br />
 <br />
 
