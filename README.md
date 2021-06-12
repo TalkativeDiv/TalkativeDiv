@@ -33,6 +33,7 @@ anything, as I will Ignore you!
 <img align="left" alt="Replit" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/768px-Repl.it_logo.svg.png" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />
+<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <br />
 <br />
 
