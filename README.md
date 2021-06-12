@@ -39,6 +39,7 @@ anything, as I will Ignore you!
 <img align="left" alt="Code.org" width="26px" src="https://www.commonsense.org/education/sites/default/files/tlr-blog/code-org-icon.jpg" />
 <img align="left" alt="Thunkable" width="26px" src="https://user-images.githubusercontent.com/85126640/121789359-57518480-cba3-11eb-8cd4-e2cc2d2da184.png" />
 <img align="left" alt="Firebase" width="26px" src="https://www.shareicon.net/data/128x128/2016/07/08/117548_google_512x512.png" />
+<img align="left" alt="Lottie" width="26px" src="https://static9.lottiefiles.com/images/v3/lf-intergrations-logo.svg" />
 <br />
 <br />
 
