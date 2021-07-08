@@ -42,3 +42,6 @@ anything, as I will Ignore you!
 <img align="left" alt="Airtable" width="26px" src="https://appstore-data.csml.dev/images/airtable.png" />
 <br />
 <br />
+  
+  <h1>Stats</h1>
+  [![TalkativeDiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true&theme=tokyonight)))](https://github.com/anuraghazra/github-readme-stats)
