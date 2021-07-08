@@ -40,7 +40,8 @@ anything, as I will Ignore you!
 <img align="left" alt="Lottie" width="26px" src="https://static9.lottiefiles.com/images/v3/lf-intergrations-logo.svg" />
 <img align="left" alt="Airtable" width="26px" src="https://appstore-data.csml.dev/images/airtable.png" />
 
-  
+  <br />
+  <br />
 <details>
   <summary>:zap: GitHub Stats</summary>
     
