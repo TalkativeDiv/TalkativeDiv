@@ -48,3 +48,7 @@ anything, as I will Ignore you!
 <img align="left" alt="TalkativeDiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true&theme=tokyonight&hide_border=true" />
   
 </details>
+
+<br />
+<br />
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=TalkativeDiv&hide_title=true&hide_border=true&langs_count=5)
