@@ -44,4 +44,4 @@ anything, as I will Ignore you!
 <br />
   
   <h1>Stats</h1>
-  [TalkativeDiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true&theme=tokyonight)))](https://github.com/anuraghazra/github-readme-stats)
+  [![TalkativeDiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true&theme=tokyonight)))]
