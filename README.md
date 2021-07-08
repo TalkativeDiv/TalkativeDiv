@@ -44,4 +44,5 @@ anything, as I will Ignore you!
 <br />
   
   <h1>Stats</h1>
-  [![TalkativeDiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true&theme=tokyonight)))]
+<img align="left" alt="TalkativeDiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true&theme=tokyonight" />
+
