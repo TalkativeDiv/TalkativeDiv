@@ -42,19 +42,27 @@ anything, as I will Ignore you!
 
   <br />
   <br />
-<h1>:zap: GitHub Stats</h1>
+<h1>:zap: Stats</h1>
 
-    
-<img align="left" alt="TalkativeDiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true&theme=tokyonight&hide_border=true" />
+<h1>⭐ Github</h1>
+     <img align="left" alt="TalkativeDiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true&theme=tokyonight&hide_border=true" />
 
-
+<!--This is insane-->
   <br />
   <br />
-  
-<h1>📊 This week I spent my time on</h1>  
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+
+
+ <h3>📊 Time</h3>  
 
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka--> 
+
