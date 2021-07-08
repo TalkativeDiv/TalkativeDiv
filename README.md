@@ -45,6 +45,5 @@ anything, as I will Ignore you!
   </details>
   <details>
    <summary>⚡ Stats <summary/> 
-  <h1>Stats</h1>
 <img align="left" alt="TalkativeDiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true&theme=tokyonight&hide_border=true" />
   </details>
