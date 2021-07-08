@@ -1,28 +1,27 @@
-### Hi there, I'm TalkativeDiv 👋
-
-## I'm a developer!
-
-Hi there
-👋 Hi, I'm @TalkitiveDiv!
+<h1 align="center"> Hi there, I'm TalkativeDiv 👋</h1>
+<h3 align="center">I am currently a frontend developer with a small experience with middle end</h3>
+<br/>
+<br/>
 
 -👀 Interests:I am intrested in 3D modeling and Coding! 
-
+<br/>
 -🌱 I am learning JS, HTML, And CSS.
-
+<br/>
 -✅ This is my only account! Any others are fake!
-
+<br/>
 -📫 Please Don't Try Reaching out to me to colaborate or
 anything, as I will Ignore you!
-
+<br/>
 -🥅 Long Term Goals: Learn All of the programming languages
-
+<br/>
 -🥅 Short Term Goals: Learn Bootstrap
-
+<br/>
 -⚡ Fun Fact: I Play a LOT of Games
+<br/>
 
 
-### Languages and Tools:
-
+<h1> Languages & Tools: <h1/>
+  
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -43,4 +42,3 @@ anything, as I will Ignore you!
 <img align="left" alt="Airtable" width="26px" src="https://appstore-data.csml.dev/images/airtable.png" />
 <br />
 <br />
-
