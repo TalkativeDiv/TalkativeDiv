@@ -20,7 +20,7 @@ anything, as I will Ignore you!
 <br/>
 
 <details>
-<summary>🔨 Languages & Tools: <summary/>
+<summary>:hammer: Languages & Tools: <summary/>
   
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -40,9 +40,10 @@ anything, as I will Ignore you!
 <img align="left" alt="Firebase" width="26px" src="https://www.shareicon.net/data/128x128/2016/07/08/117548_google_512x512.png" />
 <img align="left" alt="Lottie" width="26px" src="https://static9.lottiefiles.com/images/v3/lf-intergrations-logo.svg" />
 <img align="left" alt="Airtable" width="26px" src="https://appstore-data.csml.dev/images/airtable.png" />
-<br />
-<br />
+
+  
   </details>
+  
 <details>
   <summary>:zap: GitHub Stats</summary>
     
