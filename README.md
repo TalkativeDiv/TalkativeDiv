@@ -19,8 +19,7 @@ anything, as I will Ignore you!
 -⚡ Fun Fact: I Play a LOT of Games
 <br/>
 
-<details>
-<summary>:hammer: Languages & Tools: <summary/>
+<h1> 🔨 Languages & Tools:</h1>
   
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -41,8 +40,6 @@ anything, as I will Ignore you!
 <img align="left" alt="Lottie" width="26px" src="https://static9.lottiefiles.com/images/v3/lf-intergrations-logo.svg" />
 <img align="left" alt="Airtable" width="26px" src="https://appstore-data.csml.dev/images/airtable.png" />
 
-  
-  </details>
   
 <details>
   <summary>:zap: GitHub Stats</summary>
