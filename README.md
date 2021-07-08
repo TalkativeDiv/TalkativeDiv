@@ -53,4 +53,7 @@ anything, as I will Ignore you!
 <br />
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
