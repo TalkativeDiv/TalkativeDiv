@@ -39,7 +39,7 @@ anything, as I will Ignore you!
 <img align="left" alt="Firebase" width="26px" src="https://www.shareicon.net/data/128x128/2016/07/08/117548_google_512x512.png" />
 <img align="left" alt="Lottie" width="26px" src="https://static9.lottiefiles.com/images/v3/lf-intergrations-logo.svg" />
 <img align="left" alt="Airtable" width="26px" src="https://appstore-data.csml.dev/images/airtable.png" />
-
+<img align="left" alt="Markdown" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png" />
   <br />
   <br />
 <h1>:zap: Stats</h1>
