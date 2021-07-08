@@ -52,3 +52,4 @@ anything, as I will Ignore you!
 <br />
 <br />
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=TalkativeDiv&hide_title=true&hide_border=true&langs_count=5)
+<figure><embed src="https://wakatime.com/share/@7c3edac7-99f1-401b-86cf-38358c7a5951/a0974511-97e2-4316-b044-e739031da5c6.svg"></embed></figure>
