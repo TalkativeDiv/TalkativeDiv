@@ -43,7 +43,9 @@ anything, as I will Ignore you!
 <br />
 <br />
   </details>
-  <details>
-   <summary>⚡ Stats <summary/> 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+    
 <img align="left" alt="TalkativeDiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true&theme=tokyonight&hide_border=true" />
-  </details>
+  
+</details>
