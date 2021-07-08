@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there, I'm TalkativeDiv 👋</h1>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Making+Great+apps+for+great+ideas)](https://git.io/typing-svg)
+
 <h3 align="center">I am currently a frontend developer with a small experience with middle end</h3>
 <br/>
 <br/>
@@ -68,4 +70,3 @@ anything, as I will Ignore you!
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka--> 
-
