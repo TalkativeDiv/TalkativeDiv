@@ -44,7 +44,7 @@ anything, as I will Ignore you!
   <br />
 <h1>:zap: Stats</h1>
 
-<h1>⭐ Github</h1>
+<h3>⭐ Github</h3>
      <img align="left" alt="TalkativeDiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <!--This is insane-->
