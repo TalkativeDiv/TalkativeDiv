@@ -1,7 +1,10 @@
 <h1 align="center"> Hi there, I'm TalkativeDiv 👋</h1>
-  
+<img src="" width="30px">
+
+
+
  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Making+Great+apps+for+great+ideas"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=70A5DA&lines=Making+Great+apps+for+great+ideas"></a>
 </p> 
 <br />
 <br /> 
@@ -30,7 +33,7 @@ anything, as I will Ignore you!
 -⚡ Fun Fact: I Play a LOT of Games
 <br/>
 
-<h1>Meme of the Minute!😂</h1>
+<h1>Meme of the Minute! 😂</h1>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api?/&theme=tokyonight" alt="Jokes Card" />
 </p>
@@ -70,12 +73,11 @@ anything, as I will Ignore you!
   
  <h3> Most used languages in my open source projects</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalkativeDiv&langs_count=999&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalkativeDiv&langs_count=999&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
        <br />
-       <br />  
  <h3>🔥 Contribution Streak<h3>  
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=tokyonight)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TalkativeDiv&theme=tokyonight)](https://git.io/streak-stats)
   
 
  <h3>📊 Time Coding</h3>
@@ -103,4 +105,6 @@ anything, as I will Ignore you!
 
 
 
-
+<details>
+<!--START_SECTION:activity-->
+<details>t
