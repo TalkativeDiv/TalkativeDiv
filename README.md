@@ -4,7 +4,7 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Making+Great+apps+for+great+ideas" />
 <br />
 <br />   
-  <img align="ledt" src="https://visitor-badge.glitch.me/badge?page_id=TalkativeDiv" />
+  <img align="left" src="https://visitor-badge.glitch.me/badge?page_id=TalkativeDiv" />
 
 
 <h3 align="center">I am currently a frontend developer with a small experience with middle end</h3>
