@@ -62,13 +62,13 @@ anything, as I will Ignore you!
   
  <h3> Most used languages in my open source projects</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalkativeDiv&langs_count=999&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalkativeDiv&langs_count=999&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
        <br />
        <br />  
 
  <h3>📊 Time Coding</h3>
 
-[![TalkativeDiv's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TalkativeDiv&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![TalkativeDiv's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TalkativeDiv&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
   <p align="left">
 <a href="https://github.com/TalkativeDiv/AboutNYC"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TalkativeDiv&repo=AboutNYC&theme=tokyonight&hide_border=true&show_icons=true" alt="AboutNYC"></a>
