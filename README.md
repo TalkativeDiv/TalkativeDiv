@@ -1,4 +1,9 @@
 <h1 align="center"> Hi there, I'm TalkativeDiv 👋</h1>
+<p align="center">
+
+[![Typing SVG ]( https://readme-typing-svg.herokuapp.com?lines=Making+Great+apps+for+great+ideas)](https://git.io/typing-svg)
+
+</p>
 <h3 align="center">I am currently a frontend developer with a small experience with middle end</h3>
 <br/>
 <br/>
@@ -39,18 +44,62 @@ anything, as I will Ignore you!
 <img align="left" alt="Firebase" width="26px" src="https://www.shareicon.net/data/128x128/2016/07/08/117548_google_512x512.png" />
 <img align="left" alt="Lottie" width="26px" src="https://static9.lottiefiles.com/images/v3/lf-intergrations-logo.svg" />
 <img align="left" alt="Airtable" width="26px" src="https://appstore-data.csml.dev/images/airtable.png" />
-
+<img align="left" alt="Markdown" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png" />
   <br />
   <br />
-<details>
-  <summary>:zap: GitHub Stats</summary>
-    
-<img align="left" alt="TalkativeDiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-</details>
+<h1>:zap: Stats</h1>
 
-<br />
-<br />
+<h3>⭐ Github</h3>
+     <img align="left" alt="TalkativeDiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<!--This is INSANE-->
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalkativeDiv&langs_count=999&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+<!--This is INSANE-->
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+
+
+ <h3>📊 Time</h3>  
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka--> 
+
+
+<p align="left">
+  <a href="https://github.com/TalkativeDiv/AboutNYC"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TalkativeDiv&repo=AboutNYC&theme=tokyonight&hide_border=true&show_icons=true" alt="AboutNYC"></a>
+  <a href="https://github.com/TalkativeDiv/Space-invaders-"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TalkativeDiv&repo=Space-invaders-&theme=tokyonight&hide_border=true&show_icons=true" alt="Space-Invaders"></a>
+  <a href="https://github.com/TalkativeDiv/ModBot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TalkativeDiv&repo=ModBot&theme=tokyonight&hide_border=true&show_icons=true" alt="ModBot"></a>
+<a href="https://github.com/TalkativeDiv/infoCovid"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TalkativeDiv&repo=infoCovid&theme=tokyonight&hide_border=true&show_icons=true" alt="infoCovid"></a>
+
+<p align="left">
+  <a href="https://github.com/TalkativeDiv?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-446192?style=for-the-badge&logoColor=white&="/></a>
+</p>
