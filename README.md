@@ -1,10 +1,10 @@
 <h1 align="center"> Hi there, I'm TalkativeDiv 👋</h1>
   
   
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Making+Great+apps+for+great+ideas" />
+  <img align="right" src="https://readme-typing-svg.herokuapp.com?lines=Making+Great+apps+for+great+ideas" />
 <br />
 <br />   
-  <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=TalkativeDiv" />
+  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=TalkativeDiv" />
 
 
 <h3 align="center">I am currently a frontend developer with a small experience with middle end</h3>
