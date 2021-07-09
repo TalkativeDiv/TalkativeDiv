@@ -1,16 +1,12 @@
 <h1 align="center"> Hi there, I'm TalkativeDiv 👋</h1>
 
-<p align="center">
 
 [![Typing SVG ](https://readme-typing-svg.herokuapp.com?lines=Making+Great+apps+for+great+ideas)](https://git.io/typing-svg)
 
-</p>
  
-<p align="center">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TalkativeDiv)
 
-</p>
 
 <h3 align="center">I am currently a frontend developer with a small experience with middle end</h3>
 <br/>
@@ -56,7 +52,7 @@ anything, as I will Ignore you!
   <br />
   <br />
 <h1>:zap: Stats</h1>
-     <img align="left" alt="TalkativeDiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true&theme=tokyonight&hide_border=true" />
+     <img align="left" alt="TalkativeDiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true&theme=tokyonight&hide_border=false" />
        <br />
   <br />       <br />
   <br />       <br />
@@ -75,13 +71,13 @@ anything, as I will Ignore you!
 [![TalkativeDiv's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TalkativeDiv&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
   <p align="left">
-<a href="https://github.com/TalkativeDiv/AboutNYC"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TalkativeDiv&repo=AboutNYC&theme=tokyonight&hide_border=true&show_icons=true" alt="AboutNYC"></a>
-  <a href="https://github.com/TalkativeDiv/Space-invaders-"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TalkativeDiv&repo=Space-invaders-&theme=tokyonight&hide_border=true&show_icons=true" alt="Space-Invaders"></a>
+<a href="https://github.com/TalkativeDiv/AboutNYC"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TalkativeDiv&repo=AboutNYC&theme=tokyonight&hide_border=false&show_icons=true" alt="AboutNYC"></a>
+  <a href="https://github.com/TalkativeDiv/Space-invaders-"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TalkativeDiv&repo=Space-invaders-&theme=tokyonight&hide_border=false&show_icons=true" alt="Space-Invaders"></a>
 
   <br />
   <br />
-  <a href="https://github.com/TalkativeDiv/ModBot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TalkativeDiv&repo=ModBot&theme=tokyonight&hide_border=true&show_icons=true" alt="ModBot"></a>
-<a href="https://github.com/TalkativeDiv/infoCovid"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TalkativeDiv&repo=infoCovid&theme=tokyonight&hide_border=true&show_icons=true" alt="infoCovid"></a>
+  <a href="https://github.com/TalkativeDiv/ModBot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TalkativeDiv&repo=ModBot&theme=tokyonight&hide_border=false&show_icons=true" alt="ModBot"></a>
+<a href="https://github.com/TalkativeDiv/infoCovid"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TalkativeDiv&repo=infoCovid&theme=tokyonight&hide_border=false&show_icons=true" alt="infoCovid"></a>
 </p>
 <p align="left">
   <a href="https://github.com/TalkativeDiv?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-446192?style=for-the-badge&logoColor=white&="/></a>
