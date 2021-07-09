@@ -105,6 +105,7 @@ anything, as I will Ignore you!
 
 
 
-<details>
+
 <!--START_SECTION:activity-->
-</details>
+
+<!--END_SECTION:activity-->
