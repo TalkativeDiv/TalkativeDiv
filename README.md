@@ -107,4 +107,4 @@ anything, as I will Ignore you!
 
 <details>
 <!--START_SECTION:activity-->
-<details>t
+</details>
