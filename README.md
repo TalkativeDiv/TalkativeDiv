@@ -1,14 +1,11 @@
 <h1 align="center"> Hi there, I'm TalkativeDiv 👋</h1>
-<<<<<<< HEAD
+
 <p align="center">
 
 [![Typing SVG ](https://readme-typing-svg.herokuapp.com?lines=Making+Great+apps+for+great+ideas)](https://git.io/typing-svg)
 
-# </p>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Making+Great+apps+for+great+ideas)](https://git.io/typing-svg)
-
-> > > > > > > 0b76e6f9f13eaa27a8226d9dfdf474f633b20488
 
 <h3 align="center">I am currently a frontend developer with a small experience with middle end</h3>
 <br/>
@@ -54,17 +51,13 @@ anything, as I will Ignore you!
   <br />
   <br />
 <h1>:zap: Stats</h1>
-<<<<<<< HEAD
 
 <h3>⭐ Github</h3>
      <img align="left" alt="TalkativeDiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true&theme=tokyonight&hide_border=true" />
 
-=======
-
 <h3>⭐ Github</h3>
      <img align="left" alt="TalkativeDiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true&theme=tokyonight&hide_border=true" />
 
-> > > > > > > 0b76e6f9f13eaa27a8226d9dfdf474f633b20488
 
 <!--This is INSANE-->
   <br />
@@ -77,8 +70,6 @@ anything, as I will Ignore you!
   <br />
   <br />
   <br />
-
-<<<<<<< HEAD
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalkativeDiv&langs_count=999&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -94,9 +85,6 @@ anything, as I will Ignore you!
   <br />
   <br />
 
-=======
-
-> > > > > > > 0b76e6f9f13eaa27a8226d9dfdf474f633b20488
 
  <h3>📊 Time</h3>
 
@@ -108,7 +96,6 @@ No Activity tracked this Week
 
 <!--END_SECTION:waka-->
 
-<<<<<<< HEAD
 
 <p align="left">
   <a href="https://github.com/TalkativeDiv/AboutNYC"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TalkativeDiv&repo=AboutNYC&theme=tokyonight&hide_border=true&show_icons=true" alt="AboutNYC"></a>
@@ -119,5 +106,3 @@ No Activity tracked this Week
 <p align="left">
   <a href="https://github.com/TalkativeDiv?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-446192?style=for-the-badge&logoColor=white&="/></a>
 </p>
-=======
->>>>>>> 0b76e6f9f13eaa27a8226d9dfdf474f633b20488
