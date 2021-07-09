@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm TalkativeDiv 👋</h1>
   
   
-  <img align="left" src="https://readme-typing-svg.herokuapp.com?lines=Making+Great+apps+for+great+ideas" />
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Making+Great+apps+for+great+ideas" />
 <br />
 <br />   
   <img align="ledt" src="https://visitor-badge.glitch.me/badge?page_id=TalkativeDiv" />
