@@ -32,8 +32,9 @@ anything, as I will Ignore you!
 
 <h1>Meme of the Minute!😂</h1>
 <p align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?/&theme=tokyonight" alt="Jokes Card" />
 </p>
+
 
 <h1> 🔨 Languages & Tools:</h1>
   
@@ -72,10 +73,17 @@ anything, as I will Ignore you!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalkativeDiv&langs_count=999&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
        <br />
        <br />  
+ <h3>🔥 Contribution Streak<h3>  
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=tokyonight)](https://git.io/streak-stats)
+  
 
  <h3>📊 Time Coding</h3>
 
 [![TalkativeDiv's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TalkativeDiv&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+<br />
 
   <p align="left">
 <a href="https://github.com/TalkativeDiv/AboutNYC"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TalkativeDiv&repo=AboutNYC&theme=tokyonight&hide_border=true&show_icons=true" alt="AboutNYC"></a>
@@ -86,6 +94,8 @@ anything, as I will Ignore you!
   <a href="https://github.com/TalkativeDiv/ModBot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TalkativeDiv&repo=ModBot&theme=tokyonight&hide_border=true&show_icons=true" alt="ModBot"></a>
 <a href="https://github.com/TalkativeDiv/infoCovid"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TalkativeDiv&repo=infoCovid&theme=tokyonight&hide_border=true&show_icons=true" alt="infoCovid"></a>
 </p>
+<br />
+<br /> 
 <p align="left">
   <a href="https://github.com/TalkativeDiv?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-446192?style=for-the-badge&logoColor=white&="/></a>
 </p>
