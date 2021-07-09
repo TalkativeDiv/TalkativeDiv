@@ -30,6 +30,11 @@ anything, as I will Ignore you!
 -⚡ Fun Fact: I Play a LOT of Games
 <br/>
 
+<h1>Meme of the Minute!😂</h1>
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
+
 <h1> 🔨 Languages & Tools:</h1>
   
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" />
