@@ -32,7 +32,7 @@ anything, as I will Ignore you!
 
 <h1>Meme of the Minute! 😂</h1>
 <p align="center">
-<img src="https://readme-jokes.vercel.app/api?/&theme=tokyonight" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?/&theme=tokyonight" alt="Jokes Card" /> 
 </p>
 
 <h1> 🔨 Languages & Tools:</h1>
