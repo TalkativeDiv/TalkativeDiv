@@ -1,16 +1,12 @@
 <h1 align="center"> Hi there, I'm TalkativeDiv 👋</h1>
 
-<p align="center">
 
 [![Typing SVG ](https://readme-typing-svg.herokuapp.com?lines=Making+Great+apps+for+great+ideas)](https://git.io/typing-svg)
 
-</p>
  
-<p align="center">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TalkativeDiv)
 
-</p>
 
 <h3 align="center">I am currently a frontend developer with a small experience with middle end</h3>
 <br/>
