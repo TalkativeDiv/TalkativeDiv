@@ -1,5 +1,5 @@
-<h1 align="center"> Hi there, I'm TalkativeDiv 👋</h1>
-<img src="" width="30px">
+<h1 align="center"> Hi there, I'm TalkativeDiv</h1>
+<img src="https://media.tenor.com/images/2bd08aad2f16f49c34f6ee1c0dde04df/tenor.gif" width="30px">
 
 
 
