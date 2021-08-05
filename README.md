@@ -77,7 +77,7 @@ anything, as I will Ignore you!
        <br />
  <h3>🔥 Contribution Streak<h3>  
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TalkativeDiv&theme=tokyonight)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TalkativeDiv&theme=tokyonight&hide_border=true")](https://git.io/streak-stats)
   
 
  <h3>📊 Time Coding</h3>
