@@ -41,7 +41,7 @@ anything, as I will Ignore you!
 <img align="left" alt="Markdown" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png" />
   <br />
   <br />
-# :zap: Stats
+### ⚡ Stats
      <img align="left" alt="TalkativeDiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true&hide_border=true" />
      
  ### 🔥 Contribution Streak
