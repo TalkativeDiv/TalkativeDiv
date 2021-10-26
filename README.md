@@ -43,6 +43,7 @@ anything, as I will Ignore you!
   <br />
 # :zap: Stats
      <img align="left" alt="TalkativeDiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true&hide_border=true" />
+     
  ### 🔥 Contribution Streak
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TalkativeDiv&hide_border=true)](https://git.io/streak-stats)
