@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there! 👋
 
 <details>
   <summary>🔨 Languages & Tools:</summary>
@@ -49,10 +49,7 @@ anything, as I will Ignore you!
   <summary>Contribution Streak 🔥</summary>
        <img align="left" alt="TalkativeDiv's GitHub contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TalkativeDiv" />
 </details>
-<br>
-<br>
-<br>
-<br>
+
 <div align="left">
-<a href="https://app.daily.dev/TalkativeDiv"><img src="https://api.daily.dev/devcards/e031a2e1a2b24a09925a0a6d6f8e9660.png?r=uik"   align="center"  width="256" alt="TalkativeDiv's Dev Card"/></a>
+<a href="https://app.daily.dev/TalkativeDiv"><img src="https://api.daily.dev/devcards/e031a2e1a2b24a09925a0a6d6f8e9660.png?r=uik"   align="right"  width="256" alt="TalkativeDiv's Dev Card"/></a>
 </div>
