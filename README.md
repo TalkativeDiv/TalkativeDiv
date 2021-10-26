@@ -1,25 +1,7 @@
-# Hi there, I'm TalkativeDiv 👋
+# Hi there 👋
 
-### I am currently a frontend developer with a small experience with middle end
-
--👀 Interests:I am intrested in 3D modeling and Coding!
-<br/>
--🌱 I am learning JS, HTML, And CSS.
-<br/>
--✅ This is my only account! Any others are fake!
-<br/>
--📫 Please Don't Try Reaching out to me to colaborate or
-anything, as I will Ignore you!
-<br/>
--🥅 Long Term Goals: Learn All of the programming languages
-<br/>
--🥅 Short Term Goals: Learn Bootstrap
-<br/>
--⚡ Fun Fact: I Play a LOT of Games
-
-
-# 🔨 Languages & Tools:
-  
+<details>
+  <summary>🔨 Languages & Tools:</summary>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -39,12 +21,38 @@ anything, as I will Ignore you!
 <img align="left" alt="Lottie" width="26px" src="https://static9.lottiefiles.com/images/v3/lf-intergrations-logo.svg" />
 <img align="left" alt="Airtable" width="26px" src="https://appstore-data.csml.dev/images/airtable.png" />
 <img align="left" alt="Markdown" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png" />
-  <br />
-  <br />
-### ⚡ Stats
-     <img align="left" alt="TalkativeDiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true&hide_border=true" />
-     
- ### 🔥 Contribution Streak
+</details>
+<details>
+  <summary>About Me</summary>
+  
+-👀 Interests:I am intrested in 3D modeling and Coding!
+<br/>
+-🌱 I am learning JS, HTML, And CSS.
+<br/>
+-✅ This is my only account! Any others are fake!
+<br/>
+-📫 Please Don't Try Reaching out to me to colaborate or
+anything, as I will Ignore you!
+<br/>
+-🥅 Long Term Goals: Learn All of the programming languages
+<br/>
+-🥅 Short Term Goals: Learn Bootstrap
+<br/>
+-⚡ Fun Fact: I Play a LOT of Games
+</details>
+<details>
+  <summary>Stats ⚡</summary>
+       <img align="left" alt="TalkativeDiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true" />
+</details>
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TalkativeDiv&hide_border=true)](https://git.io/streak-stats)
-
+<details>
+  <summary>Contribution Streak 🔥</summary>
+       <img align="left" alt="TalkativeDiv's GitHub contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TalkativeDiv" />
+</details>
+<br>
+<br>
+<br>
+<br>
+<div align="left">
+<a href="https://app.daily.dev/TalkativeDiv"><img src="https://api.daily.dev/devcards/e031a2e1a2b24a09925a0a6d6f8e9660.png?r=uik"   align="center"  width="256" alt="TalkativeDiv's Dev Card"/></a>
+</div>
