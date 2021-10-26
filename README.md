@@ -1,5 +1,8 @@
 # Hi there! 👋
 
+<div align="left">
+<a href="https://app.daily.dev/TalkativeDiv"><img src="https://api.daily.dev/devcards/e031a2e1a2b24a09925a0a6d6f8e9660.png?r=uik"   align="right"  width="256" alt="TalkativeDiv's Dev Card"/></a>
+</div>
 <details>
   <summary>🔨 Languages & Tools:</summary>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" />
@@ -50,6 +53,4 @@ anything, as I will Ignore you!
        <img align="left" alt="TalkativeDiv's GitHub contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TalkativeDiv" />
 </details>
 
-<div align="left">
-<a href="https://app.daily.dev/TalkativeDiv"><img src="https://api.daily.dev/devcards/e031a2e1a2b24a09925a0a6d6f8e9660.png?r=uik"   align="right"  width="256" alt="TalkativeDiv's Dev Card"/></a>
-</div>
+
