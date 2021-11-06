@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 <div align="left">
-<a href="https://app.daily.dev/TalkativeDiv"><img src="https://api.daily.dev/devcards/e031a2e1a2b24a09925a0a6d6f8e9660.png?r=6dw" width="400" alt="TalkativeDiv's Dev Card"/></a>
+<a href="https://app.daily.dev/TalkativeDiv"><img src="https://api.daily.dev/devcards/e031a2e1a2b24a09925a0a6d6f8e9660.png?r=6dw" width="256" align="right" alt="TalkativeDiv's Dev Card"/></a>
 </div>
 <details>
   <summary>🔨 Languages & Tools:</summary>
