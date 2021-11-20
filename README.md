@@ -56,7 +56,7 @@ anything, as I will Ignore you!
 </details>
 
 <details>
-    <summary> <samp>📝 Programming Languages</samp></summary>
+    <summary>📝 Programming Languages</summary>
 <br/>
 
 ![TalkativeDiv GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TalkativeDiv&langs_count=10&layout=compact)
