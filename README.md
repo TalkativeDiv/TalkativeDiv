@@ -45,12 +45,22 @@ anything, as I will Ignore you!
 </details>
 <details>
   <summary>Stats ⚡</summary>
+  <br />
        <img align="left" alt="TalkativeDiv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TalkativeDiv&show_icons=true" />
 </details>
 
 <details>
   <summary>Contribution Streak 🔥</summary>
+    <br />
        <img align="left" alt="TalkativeDiv's GitHub contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TalkativeDiv" />
+</details>
+
+<details>
+    <summary> <samp>📝 Programming Languages</samp></summary>
+<br/>
+
+![TalkativeDiv GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TalkativeDiv&langs_count=10&layout=compact)
+
 </details>
 
 
