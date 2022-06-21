@@ -17,13 +17,13 @@
   <summary>Stats ⚡</summary>
   <br />
 
-![](https://github-readme-stats.vercel.app/api?username=TalkativeDiv&theme=nord&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=TalkativeDiv&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=TalkativeDiv&theme=nord&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=TalkativeDiv&theme=vue-dark&hide_border=true)
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TalkativeDiv&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TalkativeDiv&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </details>
 
