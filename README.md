@@ -13,9 +13,7 @@ I'm an full-stack developer and content creator building a small part of the dig
 
 ---
 
-### 🧰 Languages and Tools
-
-<details> <summary><h3>Programming Languages</h3></summary>
+<details> <summary><h3>🧰 Languages and Tools</h3></summary>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
