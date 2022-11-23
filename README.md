@@ -2,7 +2,7 @@
 
 **`Full Stack Developer`**
 
-I'm an full-stack developer and content creator building a small part of the digital world one step at a time. All of my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm an full-stack developer building a small part of the digital world one step at a time. All of my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
    <p align="left">
       <a href="https://github.com/TalkativeDiv?tab=followers">
