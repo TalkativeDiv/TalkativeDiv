@@ -36,7 +36,7 @@ I'm an full-stack developer building a small part of the digital world one step 
 ![](https://github-readme-stats.vercel.app/api?username=TalkativeDiv&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&include_all_commits=false&count_private=false)
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=TalkativeDiv&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=TalkativeDiv&background=1e1e2e&theme=holi-theme&hide_border=true)
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TalkativeDiv&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
