@@ -12,7 +12,7 @@ jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.32
+      - uses: lowlighter/metrics@latest
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
@@ -40,7 +40,7 @@ jobs:
           committer_message: "build: update `${filename}`"
 
           # Options
-          user: omBratteng
+          user: TalkativeDiv
           template: classic
           base: ""
           config_display: large
@@ -56,7 +56,7 @@ jobs:
   notable2:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.32
+      - uses: lowlighter/metrics@latest
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
@@ -70,7 +70,7 @@ jobs:
           template: classic
           base: ""
           config_display: large
-          config_timezone: Europe/Oslo
+          config_timezone: America/New_York
           config_output: svg
           config_padding: 0, 30
           filename: notable2.svg
@@ -85,7 +85,7 @@ jobs:
   achievements:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.32
+      - uses: lowlighter/metrics@latest
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
