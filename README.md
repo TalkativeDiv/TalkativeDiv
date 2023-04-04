@@ -32,7 +32,7 @@ I'm an full-stack developer building a small part of the digital world one step 
 <br />
 
 ### 📊 Stats
-
+<!--
 ![Readme Stats](https://github-readme-stats.vercel.app/api?username=TalkativeDiv&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&include_all_commits=false&count_private=false)
 <br/>
 
@@ -42,7 +42,7 @@ I'm an full-stack developer building a small part of the digital world one step 
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TalkativeDiv&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=catppuccin_mocha&line1=react,react,2cb2b5;vite,vite,e6ed67;Tailwind%20CSS,Tailwind%20CSS,123fd3;&line2=Node.js,Node.js,0f5f8d;Express,Express,352489;&frameborder=none)](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=catppuccin_mocha&line1=react,react,2cb2b5;vite,vite,e6ed67;Tailwind%20CSS,Tailwind%20CSS,123fd3;&line2=Node.js,Node.js,0f5f8d;Express,Express,352489;&frameborder=none)
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
+ ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
+-->
 #
 
